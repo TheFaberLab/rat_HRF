@@ -1,7 +1,7 @@
 # Cortical rat HRF
 Cortical rat hemodynamic response function (HRF) for GLM-based analysis of BOLD fMRI studies in rat.
 # Overview
-The calculation of brain activation maps from fMRI measurements requires a realistic model of the BOLD response. For this purpose, we have determined a cortical rat HRF for analysis of BOLD fMRI studies in rat. This HRF is based on 98 BOLD measurements in 64 animals and proceeds faster than the human HRF, which is implemented in the software SPM by default. The cortical rat HRF provides improved detection performance of brain activation, and it is largely independent of the stimulation modality.
+The calculation of brain activation maps from fMRI measurements requires a realistic model of the BOLD response. For this purpose, we have determined a cortical rat HRF for analysis of BOLD fMRI studies in rat. This HRF is based on 143 BOLD measurements in 76 animals and proceeds faster than the human HRF, which is implemented in the software SPM by default. The cortical rat HRF provides improved detection performance of brain activation, and it is largely independent of the stimulation modality.
 
 # Software Requirements
 The script was written for implementation in SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/). 
