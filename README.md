@@ -13,6 +13,6 @@ The HRF parameters are loaded when the software SPM is opened. <br>
 
 # How to cite the cortical rat HRF
 These scripts were created by your colleagues. Please cite the article in which the cortical rat HRF was described:<br>
-Lambers et al Neuroimage. 2020 Mar;208:116446. doi: 10.1016/j.neuroimage.2019.116446. <br>
+Lambers et al. Neuroimage. 2020 Mar;208:116446. doi: 10.1016/j.neuroimage.2019.116446. <br>
 https://www.sciencedirect.com/science/article/pii/S1053811919310377?via%3Dihub
 
